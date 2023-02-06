@@ -120,7 +120,7 @@ textarea.form_input
 
 .header {
     padding-bottom: 8rem;
-   background: url(../Images/Kir.jpg);
+   background: url(Kir.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    background-position: 50% 50%;
@@ -128,7 +128,7 @@ textarea.form_input
 
 @media (min-width: 62em) {
     .header {
-        background-image: url(..//Images/Kir-05x.jpg);
+        background-image: url(Kir-05x.jpg);
     }
 }
 
@@ -278,7 +278,7 @@ textarea.form_input
     background-color: rgb(225, 220, 206);
     padding-bottom: 8rem;
     /*
-    background-image: url(../Images/H972.jpg);
+    background-image: url(H972.jpg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
@@ -337,7 +337,7 @@ textarea.form_input
  }
  
  .story{
-    background-image: url(..//Images/kirgistan-tadschikistan-8575.jpg);
+    background-image: url(kirgistan-tadschikistan-8575.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -347,7 +347,7 @@ textarea.form_input
 
  @media (min-width: 62em){
     .story {
-        background-image: url(../Images/kirgistan-tadschikistan-8575.jpg);
+        background-image: url(kirgistan-tadschikistan-8575.jpg);
         background-size: 110% auto;
         background-position: 100% 50%;
         background-attachment: fixed;
